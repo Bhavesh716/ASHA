@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=ASHA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Healthcare%20should%20not%20depend%20on%20where%20you%20live.&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=A.S.H.A.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Healthcare%20should%20not%20depend%20on%20where%20you%20live.&descAlignY=58&descAlign=50" width="100%"/>
 
 <p align="center">
 <b>"When healthcare becomes difficult to reach, its presence loses meaning too."</b>
